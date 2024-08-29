@@ -20,11 +20,17 @@ else if(num==4)
 alert("Good");
 
 }
+   else if(num==6)
+{
+alert("very good");
+
+}
 
 else if(num==0)
 {
 alert("BAD");
 }
+   
 
 else
 {
